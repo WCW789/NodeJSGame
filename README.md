@@ -1,1 +1,3 @@
-# NodeJSGame
+Node constructor game consisting of three files - letters.js, words.js and index.js
+
+In progress...
